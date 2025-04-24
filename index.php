@@ -1,3 +1,2 @@
 <?php
-
-echo 'hello';
+require "homework1/task1.php";
